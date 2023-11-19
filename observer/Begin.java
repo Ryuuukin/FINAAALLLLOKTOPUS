@@ -6,7 +6,7 @@ public class Begin {
     public void begin(){
         Scanner scan = new Scanner(System.in);
         String username;
-        System.out.println("Hello, we are PeachMusic.\nWe need some information about you.\nPlease enter your user name ");
+        System.out.println("Hello, we are ASAMusic.\nWe need some information about you.\nPlease enter your user name ");
         username=scan.next();
         User user = new User(username); //observer beginning
         Artists OliviaRodrigo = new Artists();
