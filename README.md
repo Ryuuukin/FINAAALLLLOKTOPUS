@@ -37,7 +37,7 @@
 
 ### Explanation: The `AdapterOS` class acts as an adapter to facilitate interaction between different OS functionalities, enabling compatibility and seamless usage across platforms.
 
-![The screenshot of Adapter DP](screenshots/Adapter.PNG)
+![The screenshot of Adapter DP](Screenshots/Adapter.PNG)
 
 ---
  - [X] **DECORATOR PATTERN**
@@ -45,7 +45,7 @@
 
 ### Explanation: Using decorator classes (`Rain`, `DarkNoise`, `Ocean`) extending the base `SongDecorator`, it augments the base functionality of songs with additional background sounds.
 
-![The screenshot of Decorator DP](screenshots/Decorator.PNG)
+![The screenshot of Decorator DP](Screenshots/Decorator.PNG)
 
 ---
  - [X] **FACTORY PATTERN**
@@ -53,7 +53,7 @@
 
 ### Explanation: Acts as a factory, creating instances of different artists based on user input, promoting flexible instantiation of artist objects.
 
-![The screenshot of Factory DP](screenshots/Factory.PNG)
+![The screenshot of Factory DP](Screenshots/Factory.PNG)
 
 ---
  - [X] **OBSERVER PATTERN**
@@ -61,7 +61,7 @@
 
 ### Explanation: Establishes a relationship where observers (`User`) are notified by subjects (`Artists`) about updates, ensuring seamless information propagation.
 
-![The screenshot of Observer DP](screenshots/Observer.PNG)   
+![The screenshot of Observer DP](Screenshots/Observer.PNG)   
 
 ---
  - [X] **STATE PATTERN**
@@ -77,36 +77,36 @@
 
 ### Explanation: Provides a unified and simplified interface to access diverse player functionalities, enhancing user convenience.
 
-![The screenshot of Facade DP](screenshots/Facade.PNG)   
+![The screenshot of Facade DP](Screenshots/Facade.PNG)   
 
 ---
 
 ## **UML DIAGRAM:**
-![The structure of the Project](screenshots/MergedUML/MergedUML-1.png)
+![The structure of the Project](Screenshots/MergedUML/MergedUML-1.png)
 
 ---
 
-![The structure of the Project](screenshots/MergedUML/MergedUML-2.png)
+![The structure of the Project](Screenshots/MergedUML/MergedUML-2.png)
 
 ---
 
-![The structure of the Project](screenshots/MergedUML/MergedUML-3.png)
+![The structure of the Project](Screenshots/MergedUML/MergedUML-3.png)
 
 ---
 
-![The structure of the Project](screenshots/MergedUML/MergedUML-4.png)
+![The structure of the Project](Screenshots/MergedUML/MergedUML-4.png)
 
 ---
 
-![The structure of the Project](screenshots/MergedUML/MergedUML-5.png)
+![The structure of the Project](Screenshots/MergedUML/MergedUML-5.png)
 
 ---
 
-![The structure of the Project](screenshots/MergedUML/MergedUML-6.png)
+![The structure of the Project](Screenshots/MergedUML/MergedUML-6.png)
 
 ---
 
-![The structure of the Project](screenshots/MergedUML/MergedUML-7.png)
+![The structure of the Project](Screenshots/MergedUML/MergedUML-7.png)
 
 ## **CONCLUSION**
 ---
