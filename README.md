@@ -69,7 +69,7 @@
 
 ### Explanation: Implements a state machine allowing the music player to change behavior dynamically according to different states set by user input.
 
-![The screenshot of State DP](screenshots/State.PNG)   
+![The screenshot of State DP](Screenshots/State.PNG)   
 
 ---
  - [X] **FACADE PATTERN**
